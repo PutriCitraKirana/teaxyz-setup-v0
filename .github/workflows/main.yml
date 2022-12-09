@@ -1,3 +1,0 @@
-- uses: teaxyz/setup@v0
-  with:
-    target: build
